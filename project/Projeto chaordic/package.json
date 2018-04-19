@@ -1,0 +1,22 @@
+{
+  "name": "projeto-chaordic",
+  "version": "1.0.1",
+  "description": "Servidor node chaordic",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "consolidate": "^0.15.1",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "getmodule": "^1.0.0",
+    "io": "^1.0.0",
+    "socket.io": "^2.1.0",
+    "swig": "^1.4.2"
+  }
+}
